@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+Link of App :- https://play.google.com/store/apps/details?id=in.sabith.ktu_timetable
 ### 4. User Interface
 
 ### User Section:
